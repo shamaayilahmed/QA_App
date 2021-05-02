@@ -1,6 +1,6 @@
 # Q&A App
 
-**Tech Stack**
+### Tech Stack
 
 - React UI
 - MySQL DB
@@ -8,4 +8,4 @@
 
 ### Live Output
 
-![QA-App.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1619872383632/qzC1X0CUI.gif)
+![QA-App](https://user-images.githubusercontent.com/55784371/116810413-51f32a00-ab61-11eb-9cb7-3086d283529a.gif)
